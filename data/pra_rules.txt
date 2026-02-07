@@ -1,0 +1,6 @@
+PRA Rulebook – Own Funds:
+Common Equity Tier 1 (CET1) includes ordinary share capital,
+retained earnings, and other disclosed reserves.
+COREP Template C 01.00:
+Row 010 – CET1 Capital
+Column 010 – Total amount
